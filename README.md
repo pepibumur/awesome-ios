@@ -3094,6 +3094,8 @@ CollectionView, make Instagram Discover within minutes.
 * [XcodeCodeSnippets](https://github.com/ismetanin/XcodeCodeSnippets) - A set of code snippets for iOS development, includes code and comments snippets.
 * [Xcode Keymap for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=stevemoser.xcode-keybindings) - This extension ports popular Xcode keyboard shortcuts to Visual Studio Code.
 * [Xcode Template Manager](https://github.com/Camji55/xtm) - Xcode Template Manager is a Swift command line tool that helps you manage your Xcode project templates.
+* [Tuist](https://github.com/tuist/tuist - An open source command line tool to create, maintain and interact with your Xcode projects.
+* [xcodeproj](https://github.com/tuist/xcodeproj) - An open source library to read, update and write Xcode projects in Swift.
 
 ## Reference
 * [Swift Cheat Sheet](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift.
